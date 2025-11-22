@@ -1,0 +1,42 @@
+{
+  "Pronouns": [
+    "i", "you", "he", "she", "it", "we", "they",
+    "me", "us", "them", "my", "your", "their", "ours"
+  ],
+  "ArticlesDeterminers": [
+    "a", "an", "the", "this", "that", "these", "those",
+    "each", "every", "some", "any"
+  ],
+  "Prepositions": [
+    "in", "on", "at", "with", "by", "for", "from", "to",
+    "over", "under", "about"
+  ],
+  "AuxiliaryVerbs": [
+    "be", "is", "am", "are", "was", "were",
+    "have", "has", "do", "does",
+    "will", "would", "can", "could",
+    "shall", "should", "may", "might"
+  ],
+  "Conjunctions": [
+    "and", "but", "or", "nor",
+    "because", "although", "if", "when", "while"
+  ],
+  "Particles": [
+    "not", "up", "out", "off", "over", "down"
+  ],
+  "Quantifiers": [
+    "some", "many", "few", "all", "none",
+    "several", "each"
+  ],
+  "FunctionAdverbs": [
+    "very", "just", "too", "also",
+    "only", "even", "still"
+  ],
+  "InterrogativesRelatives": [
+    "who", "what", "which",
+    "where", "when", "how"
+  ],
+  "Negations": [
+    "no", "not", "never", "neither", "nor"
+  ]
+}
