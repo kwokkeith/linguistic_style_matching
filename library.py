@@ -7,7 +7,6 @@ import json
 from collections import defaultdict
 from typing import Dict, List
 from nltk.tokenize import RegexpTokenizer
-import os
 
 
 ####################################
@@ -112,4 +111,3 @@ def extract_conversation_json(json_path) -> tuple[list[str], list[str]]:
             model_chat.append(content)
 
     return user_chat, model_chat
-
