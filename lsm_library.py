@@ -3,7 +3,7 @@
 # Last Edit: 22 November 2025
 ################
 from typing import Optional, Tuple
-from library import *
+from .library import *
 
 ####################################
 # LSM COMPUTATION                  #

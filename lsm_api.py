@@ -2,8 +2,8 @@
 # Author: Kwok Keith
 # Last Edit: 06 December 2025
 ################
-from library import *
-from lsm_library import *
+from .library import *
+from .lsm_library import *
 import os
 
 def lsm(path_to_functional_word_json: str, 
